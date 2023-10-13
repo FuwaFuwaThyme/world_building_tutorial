@@ -9,6 +9,13 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+Assets/Suntail*
+Assets/Polytope*
+Assets/Procedural Worlds/Content Packs/
+Assets/Procedural Worlds/Gaia/
+Assets/Procedural Worlds/GeNa/
+Assets/Procedural Worlds/Flora/
+Assets/Procedural Worlds/Frameworks/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
