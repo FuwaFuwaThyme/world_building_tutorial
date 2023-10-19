@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PW - Prop
+  - PW - Building
+  - PW - Nature
+  - Synty Medium Farm
+  - Synty Tree
+  - Synty Small Farm
+  - Door
+  - Item
+  - PT - Generic Rock
   layers:
   - Default
   - TransparentFX
