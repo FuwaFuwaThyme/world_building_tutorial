@@ -17,6 +17,14 @@ Assets/Procedural Worlds/GeNa/
 Assets/Procedural Worlds/Flora/
 Assets/Procedural Worlds/Frameworks/
 
+.DS_Store
+\.DS_Store
+Assets/\.DS_Store
+Assets/.DS_Store
+*DS_Store
+*/*DS_Store
+*/\.DS_Store
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
