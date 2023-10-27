@@ -1,0 +1,1194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20231024 - 214518
+  m_EditorClassIdentifier: 
+  m_name: Session 20231024-214518
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 10/24/2023 9:45:18 PM
+  m_terrainWidth: 512
+  m_terrainDepth: 512
+  m_terrainHeight: 512
+  m_seaLevel: 13.5
+  m_spawnDensity: 10
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: Spawning - Stylized Village-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/24/2023 9:45:20 PM
+    scriptableObjectAssetGUID: ffa134bc11be04fd0873bcdf70eb2683
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/24/2023 9:47:01 PM
+    scriptableObjectAssetGUID: 7063fbb32863b487e88c3bf3d0699c67
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/24/2023 9:47:26 PM
+    scriptableObjectAssetGUID: bf7d29a1b0a114fcd9382bcdcb989b71
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/24/2023 9:48:27 PM
+    scriptableObjectAssetGUID: c2e117a8d6c72447e9ad03e43afe54f0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/24/2023 9:59:04 PM
+    scriptableObjectAssetGUID: 5b74d04dca79e46f790c1b1e7960608c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/24/2023 10:06:19 PM
+    scriptableObjectAssetGUID: ea2dbddb9473742bd90709930c71f218
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/24/2023 10:06:44 PM
+    scriptableObjectAssetGUID: c6c2910fc32b24aa2b189cc7a6e44924
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/24/2023 10:11:54 PM
+    scriptableObjectAssetGUID: 9c65fe06a4891420396ba19746ba6c5a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Grass-2021(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/24/2023 10:11:55 PM
+    scriptableObjectAssetGUID: da325b9fd13b44654a5266aebf295744
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Grass-2021(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/24/2023 10:15:23 PM
+    scriptableObjectAssetGUID: 71c4ec59bbb424ae59c5309c5ff24ff6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/24/2023 10:17:56 PM
+    scriptableObjectAssetGUID: 4bbdebab0ef5c43c4bd6347db7c5674c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:15:44 AM
+    scriptableObjectAssetGUID: ba46c60fbc2254805a27a7e53bd0423f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:22:38 AM
+    scriptableObjectAssetGUID: 159372f7805e54c659d22db4ea388e66
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:23:23 AM
+    scriptableObjectAssetGUID: ab764376cd944440f86cdfdcb1f82d78
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:28:32 AM
+    scriptableObjectAssetGUID: d270b9fc8979543a793fe739f7255486
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:28:44 AM
+    scriptableObjectAssetGUID: acc4c3a43280d4a0c98e60f5499ec0a4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:29:13 AM
+    scriptableObjectAssetGUID: 122af71da7d784863809c49cae7fc557
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:29:25 AM
+    scriptableObjectAssetGUID: 466492c03ad5b4951b854f670343ba8f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:31:12 AM
+    scriptableObjectAssetGUID: 7ae33cdd59e084f2b98c12f13c48e504
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:31:36 AM
+    scriptableObjectAssetGUID: 0f2a6463853bb4b71a26654315cf2073
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:31:54 AM
+    scriptableObjectAssetGUID: 915d58503ffde45ea9ea9b2bf1d099b8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:32:04 AM
+    scriptableObjectAssetGUID: 105f8164194c8426782a1167534de13e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:32:10 AM
+    scriptableObjectAssetGUID: 0c6b2387c0b9441be948015f16854505
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:32:31 AM
+    scriptableObjectAssetGUID: 81839e538d4324b37bab231b746f0f66
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:32:37 AM
+    scriptableObjectAssetGUID: 2e88660c40e2a4d92a39d574e7f262de
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:33:09 AM
+    scriptableObjectAssetGUID: 7bd5acab13549449a8cb59c5cfd7e1ab
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:33:17 AM
+    scriptableObjectAssetGUID: 60aa09f11279e4659945099fd020572d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:33:32 AM
+    scriptableObjectAssetGUID: b4aa86c71be82405e97833102492c8f9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:33:42 AM
+    scriptableObjectAssetGUID: 062e30e0dff5749e6b116ba59e3372cf
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:35:51 AM
+    scriptableObjectAssetGUID: 059ab0c9e7c994e2d858808605598fd5
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:36:24 AM
+    scriptableObjectAssetGUID: 179f4d77ee6b747398a2ca820d0ba8eb
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:38:06 AM
+    scriptableObjectAssetGUID: 9699c4b8f93784749aabd58cba63db12
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Stone(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:59:01 AM
+    scriptableObjectAssetGUID: 34d2619c3945540fdb3fa0e142f91400
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing -, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:59:23 AM
+    scriptableObjectAssetGUID: 6a46ce015004649adbf09f4ff16f03ed
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details GOs, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 9:59:34 AM
+    scriptableObjectAssetGUID: d43f9624d44104181aa66caae8e2cbd7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:01:41 AM
+    scriptableObjectAssetGUID: 8a48fac8d5eda4f36b8b63a58056bfe2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:02:27 AM
+    scriptableObjectAssetGUID: 576815922a61d48f88289b168b54a996
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - GOs, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:02:29 AM
+    scriptableObjectAssetGUID: aa4b3f55d57e0474396ae1d113489e15
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:02:34 AM
+    scriptableObjectAssetGUID: 4ce05335004e84c22b3354439a8a3d05
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - GOs, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:02:46 AM
+    scriptableObjectAssetGUID: 2e6a564d8262e433fa8b2377e688fd00
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:03:23 AM
+    scriptableObjectAssetGUID: 03fd9b03933d64f45b53fca17f928f3f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:11:00 AM
+    scriptableObjectAssetGUID: 7a7a8591b2a4a4dbab1a75e8204091fc
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:11:14 AM
+    scriptableObjectAssetGUID: 14444658d390b42ecaac0e10f1ea924b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:12:35 AM
+    scriptableObjectAssetGUID: 00a57caae79f94bfcbc9d407739d1213
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:34:43 AM
+    scriptableObjectAssetGUID: 235aa07f12dba4b97a6f610583a73dde
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:35:39 AM
+    scriptableObjectAssetGUID: f14f89fe32fad41bf940e7e12a36ac23
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:36:30 AM
+    scriptableObjectAssetGUID: c9f89aabd46fb4f82830e22b8f85905a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:36:58 AM
+    scriptableObjectAssetGUID: dfc791e9386a14905a3e73b082d66048
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:37:17 AM
+    scriptableObjectAssetGUID: a2f1667d9689c429c909876f1fe273ff
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:37:21 AM
+    scriptableObjectAssetGUID: 986bd7bb93c104ed7a069ac7eada5da4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:37:30 AM
+    scriptableObjectAssetGUID: e1403642837e744308a209ebd234edf3
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:37:43 AM
+    scriptableObjectAssetGUID: 46778d218aeb34982930e80626dedf5b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:38:33 AM
+    scriptableObjectAssetGUID: 74cdf8b4dbcb84455878ab05eb67c364
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:38:37 AM
+    scriptableObjectAssetGUID: 961572842c8f64291b84c30417301c6f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:38:38 AM
+    scriptableObjectAssetGUID: f55d933c860b246efa103fa1f8e76bc4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:38:47 AM
+    scriptableObjectAssetGUID: 78c852816829b46a48c402f81f92b0a4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:38:49 AM
+    scriptableObjectAssetGUID: 32fe5c30ff78a49aab1d9aba0e6e4436
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:38:53 AM
+    scriptableObjectAssetGUID: 3b9d0b74379314f139aa168f2b0e8dab
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:39:05 AM
+    scriptableObjectAssetGUID: b6f9c18d530ff4935a0504221fc73e07
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:39:39 AM
+    scriptableObjectAssetGUID: 5b966c76d26e04812b58692b07bf6755
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:39:46 AM
+    scriptableObjectAssetGUID: 5c74df4e337db4cf4a78d4bfc4da7a5e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:39:51 AM
+    scriptableObjectAssetGUID: 8d1bd303314b443bc8a709972136dfcb
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:39:56 AM
+    scriptableObjectAssetGUID: d765f3bab49ed44c5b6ca6837317eec3
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:40:00 AM
+    scriptableObjectAssetGUID: c76ccec9527914f12b758b0997531275
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:42:05 AM
+    scriptableObjectAssetGUID: 908c3674243774b2faa1e973780df87a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:42:11 AM
+    scriptableObjectAssetGUID: 6940fe6c27f6941678ff0f460143acee
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:43:03 AM
+    scriptableObjectAssetGUID: f470df060555e409dbdc98114a844550
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:43:21 AM
+    scriptableObjectAssetGUID: 631cf70046dcd4b59a8319850b207118
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:43:29 AM
+    scriptableObjectAssetGUID: 6c6415541549347dbbea22e6bf6b3186
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:43:33 AM
+    scriptableObjectAssetGUID: 182e43f7d25134547a6eb1cf69ce592f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:43:37 AM
+    scriptableObjectAssetGUID: b6d78cdc6a5384fd9907d090c18e38f4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:43:45 AM
+    scriptableObjectAssetGUID: 309d3fdc988164d1893c8f664d04d360
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:43:49 AM
+    scriptableObjectAssetGUID: 441f2f586c1c34a068551acad8ce67e5
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:43:52 AM
+    scriptableObjectAssetGUID: df28120ca931e491c9587efc94f409aa
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:43:59 AM
+    scriptableObjectAssetGUID: 685b8a3d5a51043db94cf784e8ddbac9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:44:02 AM
+    scriptableObjectAssetGUID: 0622c5cb556a84a2daf6f2abefc3be4a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:44:10 AM
+    scriptableObjectAssetGUID: 10efcf828e13647f386ba75616da2753
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:44:17 AM
+    scriptableObjectAssetGUID: 007bce02e603b46939f5a442db46484d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:44:21 AM
+    scriptableObjectAssetGUID: f75745119e54146d5a8df47e7a826deb
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:44:24 AM
+    scriptableObjectAssetGUID: cdba5395eacc04cbb91242d56b18e6d0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:44:29 AM
+    scriptableObjectAssetGUID: a0b783f8aba70411392b98bca58a24da
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:44:49 AM
+    scriptableObjectAssetGUID: b968234314cb641759864e37b86ed4ed
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:44:58 AM
+    scriptableObjectAssetGUID: 760f4a7c15ed24374bfd82c00c90eb73
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:45:06 AM
+    scriptableObjectAssetGUID: 6c7cd920c959c4d9baa1f816ea9e5e78
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:45:17 AM
+    scriptableObjectAssetGUID: d5d8716c8470f44f5baae7c55238b948
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:45:18 AM
+    scriptableObjectAssetGUID: cfbaa37ba20ae434ea37a5f9edf4d1a7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:45:22 AM
+    scriptableObjectAssetGUID: e7d2beb921e1d44d6bcb78e8acfa9ab3
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:45:31 AM
+    scriptableObjectAssetGUID: 1e9f0675024ae4d9688196ddc4db7568
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:45:33 AM
+    scriptableObjectAssetGUID: fb03c84509cf642cb8a1cf314b0d59b2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:45:34 AM
+    scriptableObjectAssetGUID: 2a60c726a300846e68dd80b78c942bad
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:45:40 AM
+    scriptableObjectAssetGUID: 653564fd141ba49ec860ca0f20bed552
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:45:58 AM
+    scriptableObjectAssetGUID: 529b509d6f41f40658317affede83f4b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:46:17 AM
+    scriptableObjectAssetGUID: 0bf8d9f2049ea435b92ccbddb40ec60f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:46:22 AM
+    scriptableObjectAssetGUID: 3cc88287793bc4c8381d79041122ff40
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:46:30 AM
+    scriptableObjectAssetGUID: 765ba725aa7384011b8c13f31a54414b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:46:39 AM
+    scriptableObjectAssetGUID: 0ba5ed6a676f747ab9c5b9cf73a7c71e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:46:48 AM
+    scriptableObjectAssetGUID: a337e49ef81f84179a04d43b445d1436
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:46:58 AM
+    scriptableObjectAssetGUID: b0e98de27871a4bac986e9aa3bb299c4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:47:05 AM
+    scriptableObjectAssetGUID: d8874b91a0a494c3c80d034ef1b96628
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:47:09 AM
+    scriptableObjectAssetGUID: 41f88b16371f54cfda25451450703d41
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:47:28 AM
+    scriptableObjectAssetGUID: 3e3ea9fc3fb3d4da4bcfd17187466b6b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:47:41 AM
+    scriptableObjectAssetGUID: 788a24f271f2e4748b87ac90b6beca3c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Stylized Village-Rocks(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20231012 - 181348
+    m_operationDateTime: 10/25/2023 10:47:48 AM
+    scriptableObjectAssetGUID: dd3094e037a82480d8fe211de82a0f26
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: 996b9537aed184d998a347df941adc58
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 91.98578
+  m_bakedMaskCacheEntries:
+  - fileName: Terrain_0_0-20231012 - 181348_LayerGameObject_0_2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20231012
+      - 181348/Terrain_0_0-20231012 - 181348_LayerGameObject_0_2
+    fullPath: /Users/grantlee/gamedev/projects/world_building_tutorial_3DURP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20231012 - 181348/Terrain_0_0-20231012
+      - 181348_LayerGameObject_0_2
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20231012 - 181348_RadiusTree_System.Collections.Generic.List`1[System.Int32]_4
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20231012
+      - 181348/Terrain_0_0-20231012 - 181348_RadiusTree_System.Collections.Generic.List`1[System.Int32]_4
+    fullPath: /Users/grantlee/gamedev/projects/world_building_tutorial_3DURP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20231012 - 181348/Terrain_0_0-20231012
+      - 181348_RadiusTree_System.Collections.Generic.List`1[System.Int32]_4
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20231012 - 181348_RadiusTree_System.Collections.Generic.List`1[System.Int32]_1
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20231012
+      - 181348/Terrain_0_0-20231012 - 181348_RadiusTree_System.Collections.Generic.List`1[System.Int32]_1
+    fullPath: /Users/grantlee/gamedev/projects/world_building_tutorial_3DURP/Assets/Procedural
+      Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20231012 - 181348/Terrain_0_0-20231012
+      - 181348_RadiusTree_System.Collections.Generic.List`1[System.Int32]_1
+    texture: {fileID: 0}
+  m_worldBiomeMaskSettings: {fileID: 0}

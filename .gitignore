@@ -9,14 +9,95 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
-Assets/Suntail*
-Assets/Polytope*
-Assets/Procedural Worlds/Content Packs/
-Assets/Procedural Worlds/Gaia/
-Assets/Procedural Worlds/GeNa/
+
+
+
+
+# =============================================================
+#
+# Asset Packages
+#
+# /////////////////////////////////////////////////////////////
+Assets/Polytope Studio/Lowpoly_Demos
+Assets/Polytope Studio/Lowpoly_Environments/SRP
+Assets/Polytope Studio/Lowpoly_Environments/Sources/Meshes
+Assets/Polytope Studio/Lowpoly_Environments/Sources/Shaders
+Assets/Polytope Studio/Lowpoly_Environments/Sources/Textures
+Assets/Polytope Studio/Lowpoly_Village/Sources
+
+Assets/Procedural Worlds/Content Packs/Raygeas/Stylized Fantasy Village/Content Resources/Materials
+Assets/Procedural Worlds/Content Packs/Raygeas/Stylized Fantasy Village/Documentation
+Assets/Procedural Worlds/Content Packs/Raygeas/Stylized Fantasy Village/Gaia Biomes
+Assets/Procedural Worlds/Content Packs/Raygeas/Stylized Fantasy Village/GeNa Masks
+Assets/Procedural Worlds/Content Packs/Raygeas/Stylized Fantasy Village/GeNa Spawners
+Assets/Procedural Worlds/Content Packs/Raygeas/Stylized Fantasy Village/HDRP
+
+Assets/Suntail Village/Animations
+Assets/Suntail Village/Audio
+Assets/Suntail Village/Demo
+Assets/Suntail Village/Documentation
+Assets/Suntail Village/Materials/Background Terrains
+Assets/Suntail Village/Materials/Building Modules
+Assets/Suntail Village/Materials/Environment
+Assets/Suntail Village/Materials/FX
+Assets/Suntail Village/Materials/Props
+Assets/Suntail Village/Models
+Assets/Suntail Village/Scripts
+Assets/Suntail Village/Shaders
+Assets/Suntail Village/Terrain Layers
+Assets/Suntail Village/Textures
+Assets/Suntail Village/URP Shaders
+
+Assets/TutorialInfo/Icons
+Assets/TutorialInfo/Scripts
+
+
+
+
+# =============================================================
+#
+# High Level Paths
+#
+# /////////////////////////////////////////////////////////////
 Assets/Procedural Worlds/Flora/
 Assets/Procedural Worlds/Frameworks/
+Assets/Procedural Worlds/GeNa
 
+
+
+
+# =============================================================
+#
+# Risky Ignores
+#
+# /////////////////////////////////////////////////////////////
+# The file below is newly updated, not sure if I updated it or the system did
+# its the only file in all of "Gaia" that warrents being tracked so lets see
+# if it's not needed - check on it's impact, for now ignore the file and Gaia
+#
+# Assets/Procedural Worlds/Gaia/Lighting/Content Resources/Universal Pipeline/UPRenderPipelineAsset PWS UP 8.2.0.asset#
+Assets/Procedural Worlds/Gaia/
+
+
+
+# =============================================================
+#
+# Manual Ignores
+#
+# /////////////////////////////////////////////////////////////
+Assets/Gaia User Data/Sessions/*/Session Operations*
+Assets/Gaia User Data/Screenshots*
+
+#/Session*Operations/
+#Assets/Gaia User Data/Sessions/GS-20231012 - 141953/Session Operations/20231012-184756 Spawning - Alpine Meadow-Textures(Clone).asset.meta
+#Assets/Gaia User Data/
+
+
+# =============================================================
+#
+# DS_Store
+#
+# /////////////////////////////////////////////////////////////
 .DS_Store
 \.DS_Store
 Assets/\.DS_Store
@@ -25,6 +106,13 @@ Assets/.DS_Store
 */*DS_Store
 */\.DS_Store
 
+
+
+# =============================================================
+#
+# Original/Default Ignores
+#
+# /////////////////////////////////////////////////////////////
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
